@@ -35,7 +35,7 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# bd docker
+# docker
 .postgres-data
 
 projeto-completo
